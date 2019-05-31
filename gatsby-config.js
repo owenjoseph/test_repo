@@ -6,5 +6,5 @@
 
 module.exports = {
     /* Your site config here */
-    pathPrefix: "/owenjoseph.github.io",
+    // pathPrefix: "/owenjoseph.github.io",
 }
